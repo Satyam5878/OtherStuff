@@ -1,0 +1,10 @@
+Date 02/04/20118:
+
+Docker -
+https://www.youtube.com/watch?v=nZ6CN-DW0lM&index=6&list=PL6aLoEodmDP-SwkMXsLPnD2soWE7_2fwl
+Docker1.png
+Docker2.png
+Docker3.png
+
+
+Kubernates - 
