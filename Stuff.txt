@@ -10,6 +10,7 @@ Docker3.png
 Kubernates -
 
 Date - 07/04/2018:
+
 Cloud Platforms -
 AWS - https://www.youtube.com/watch?v=ezMs2YCZdiA&list=PLQVJk9oC5JKoUHSLkFdRhzugNyrvbOjuY
 GCP - https://www.youtube.com/watch?v=342KEaxFVjM&list=PLQVJk9oC5JKrdBmiesRfXfvRIUoTkMNN0
@@ -31,3 +32,8 @@ GCD - Google Cloud Datastore - NoSQL DB
 GCS - Google Cloud Store - Object store
 GSQL - Google Cloud SQL
 GBQ - Google Big Query(Big Data analytic platform )
+
+Payement Gateway -
+
+NEFT, RTGS, IMPS,
+NPCI(National Payment Corporation of India)
