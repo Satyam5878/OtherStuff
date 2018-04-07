@@ -7,4 +7,27 @@ Docker2.png
 Docker3.png
 
 
-Kubernates - 
+Kubernates -
+
+Date - 07/04/2018:
+Cloud Platforms -
+AWS - https://www.youtube.com/watch?v=ezMs2YCZdiA&list=PLQVJk9oC5JKoUHSLkFdRhzugNyrvbOjuY
+GCP - https://www.youtube.com/watch?v=342KEaxFVjM&list=PLQVJk9oC5JKrdBmiesRfXfvRIUoTkMNN0
+VMWare - https://www.youtube.com/watch?v=dmz4eHbqbGQ&list=PLQVJk9oC5JKpIzIg5S2IrNgb3A3H9hba9
+Google Cloud -
+
+google apps, google drive, google server, cloud platform(infrastructure,
+computing power), tools for computing, storage, big data
+GoogleCloudPlatform.jpeg,
+Spinning Virtual Machine, GCE(google compute Engine),GKE(google container engine)
+k--> Kubernates in GKE
+
+Container Engine - (Docker + Kubernates)
+
+Kubernates = Cluster management and orchetration for docker,
+
+GAE - Google App Engine(Paas)
+GCD - Google Cloud Datastore - NoSQL DB
+GCS - Google Cloud Store - Object store
+GSQL - Google Cloud SQL
+GBQ - Google Big Query(Big Data analytic platform )
