@@ -37,3 +37,95 @@ Payement Gateway -
 
 NEFT, RTGS, IMPS,
 NPCI(National Payment Corporation of India)
+
+
+
+
+
+
+Date 28/04/2018:
+
+container technology,Enterprise Design patterns and Distributed Systems
+Machine Learning algorithms 
+architectural standards (e.g. TOGAF)
+test-driven development, continuous integration & delivery
+Spring or Struts 
+development and consumption of REST APIs
+architecting and developing Enterprise applications in Java and/or SAP technologies
+
+
+
+Date 29/04/2018:
+
+1)SAP HANA PAL & the MovieLens dataset
+https://www.sap.com/india/developer/tutorials/cp-hana-aa-movielens-04.html
+
+2)Setup your trial SAP HANA MDC instance
+https://www.sap.com/india/developer/tutorials/hcpps-hana-create-mdc-instance.html
+
+    3)Setup a HANA user account
+    https://www.sap.com/developer/tutorials/hcpps-hana-create-user.html
+
+        4)Import a series of predictive demo dataset
+        https://www.sap.com/developer/tutorials/hcpps-hana-dataset-import.html
+
+            5)Enable, deploy and configure the SAP Predictive services
+                https://www.sap.com/developer/tutorials/hcpps-ps-configure.html
+
+                6)Test the SAP Predictive service using a REST client
+                https://www.sap.com/developer/groups/ps-test-rest.html
+
+
+
+SAP Predictive Service User Guide
+
+
+
+https://github.com/SAPDocuments/Tutorials/tree/master/tutorials
+
+
+Date 01/05/2018:
+Cloud Native Develoment 
+https://jam4.sapjam.com/blogs/show/LnoeR0HFDufjYVBvaThXKu
+
+Kubernetes Clusters as a Service in SAP Cloud Platform
+https://jam4.sapjam.com/groups/Niq7TSBxLlzgb3nroBZJVx/overview_page/e9uqTDxXBRFbk7FJXEA4Cd
+
+Kubernetes, a novel architectural perspective
+https://jam4.sapjam.com/blogs/show/nPgtq4Qqe97jlJ93QGrAiQ
+
+Developing Cloud-Native Apps on SAP Cloud Platform
+https://blogs.sap.com/2017/03/28/developing-cloud-native-apps-on-sap-cloud-platform/
+
+Kubernates
+https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+
+
+
+Date 04/05/2018:
+
+
+GCP Machine Learning-
+https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg
+Intro GCP MAchine Learning,
+Data Modeling, Data Cleansing 
+Cloud ML Engine(Managed Scaling and Provisioning)
+Prebuilt Machine Learning API: Translation API, Vision API, NLP API, Speech Recognition API
+
+
+The G Suite Show presented by Google-
+https://www.youtube.com/channel/UCBmwzQnSoj9b6HzNmFrg_yw
+G-Suit, Jamboard
+jamboard app
+google gocs,sheet, slides,G-suit apps, google hangout, google hangout meets
+digital time card uisng form and sheets
+accessability in g-suit - screen readers
+Chrome - voiceOver(on Mac), ChromeVOX(Chromebook)
+Firefox - NVDA
+Windows - JAWS
+
+
+
+
+
+
