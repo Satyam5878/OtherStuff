@@ -1,0 +1,4 @@
+Date 23/06/2018:
+
+Local repository, Remote Repository
+Origin: denotes remote, Master

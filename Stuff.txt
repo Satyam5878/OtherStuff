@@ -124,8 +124,111 @@ Chrome - voiceOver(on Mac), ChromeVOX(Chromebook)
 Firefox - NVDA
 Windows - JAWS
 
+Date 05/05/2018:
+
+Containerization 
+What is Containerization?
+what is Container?
+Differenc between Containerization and Virtualiation?
+Advantage of Containerization and Virtuallization?
+Docker Over Containerization?
+
+
+DevOps,SysOps
+Container - Light weight virtualization technology, runs on server, virtual machine, cloud instances
+Hypervisor Virtualization
+Hypervisor example - VMWare~ESX, Microsoft~hiper-v KVM Xen
+operating system kernel
+Docker - is a container management tool for creating, deploying, running Docker container
+Docker Engine -
 
 
 
 
 
+
+
+
+
+
+Openstack Tutorials & Openstack Online Training - https://goo.gl/hEK9n9
+Devops Tutorials & Devops Online Training - https://goo.gl/hpQNz3
+Puppet Tutorials & Puppet Online Training - https://goo.gl/wbikT9
+Ansible Tutorials & Linux Online Training - https://goo.gl/kQc7HV
+Python Programming Tutorials & Python Online Training - https://goo.gl/hDN4Ai
+Cloud Computing Tutorials & Cloud Computing Online Training - https://goo.gl/Dnez3Q
+Clustering Tutorials & Clustering Online Training - https://goo.gl/FvdmMQ
+VCS Cluster Tutorials & Veritas Cluster Online Training - https://goo.gl/kcEdJ5
+Ubuntu Linux Tutorials & Ubuntu Online Training - https://goo.gl/pFrfKK
+RHCSA and RHCE Tutorials & RHCSA and RHCE Online Training - https://goo.gl/qi2Xjf
+Linux Tutorials & Linux Online Training - https://goo.gl/RzGUb3
+
+
+
+
+
+
+Date 07/05/2018:
+
+SAML Authentication
+
+Block Chain - 
+~~~~~~~~~~~
+
+Blocks - timestamp, hash value, link to previous block
+Block Chain Application - bitcoin, ethrum
+Distributed Ledger Technology, uses Cryptography
+
+pros - transparent, democratic, decentralised, efficient, secure
+UseCases - Banking and payment
+           
+           
+Industry using BlockChain- 
+    Banking And Payment:
+        ABRA - Bitcoin Based Remmittance Services 
+        Barclays uses to make its operation faster and Secure
+        Banking sector
+    Cyber Security:
+    Supply Chain Management:
+        Transaction are documented in permanent decentralized record 
+        pros - Time, Cost, Labour, Waste, Emission
+        Verify authenticity of fair trade status of product by tracking them from origin
+        Stratups working on this technology: Provenance, Fluent, SkuChain, BlockVerify.
+    Forecasting:
+
+eleminates the need of middle man.
+
+
+
+
+
+
+Date 12/05/2018:
+Aerogel : insulation produc, thickening product,
+
+
+Carbon nano tubes:
+
+MetaMaterial
+
+
+Date 14/05/2018:
+BPE
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

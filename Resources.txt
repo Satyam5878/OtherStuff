@@ -1,0 +1,25 @@
+Date 07/05/2018:
+
+OverLeaf Latex- 
+https://www.overleaf.com/16059254cfrvzrtmvmdw#/61325577/
+
+Maths Online editor
+https://www.codecogs.com/eqnedit.php
+
+Swagger io for API -
+https://editor.swagger.io/
+https://swagger.io/specification/
+https://inspector.swagger.io/builder
+
+Swagger UI Console for API Request
+
+CSV to JSON Converter - 
+http://www.convertcsv.com/csv-to-json.htm
+
+JSON Validator
+
+MailTag: Chrome extension to track your email
+
+
+Diff checker
+https://www.diffchecker.com/diff
